@@ -1,0 +1,46 @@
+.borrow-book-container {
+    padding: 20px;
+}
+
+.borrow-book-container h2 {
+    text-align: center;
+}
+
+.borrow-book-container table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.borrow-book-container th, .borrow-book-container td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+}
+
+.borrow-book-container th {
+    background-color: #f4f4f4;
+}
+
+.borrow-book-container button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.borrow-book-container button:hover {
+    background-color: #0056b3;
+}
+
+.error {
+    color: red;
+    text-align: center;
+}
+
+.success {
+    color: green;
+    text-align: center;
+}

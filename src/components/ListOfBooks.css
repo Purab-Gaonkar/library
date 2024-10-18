@@ -1,0 +1,28 @@
+.list-of-books-container {
+    padding: 20px;
+}
+
+.list-of-books-container h2 {
+    text-align: center;
+}
+
+.list-of-books-container table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.list-of-books-container th, .list-of-books-container td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+}
+
+.list-of-books-container th {
+    background-color: #f4f4f4;
+}
+
+.error {
+    color: red;
+    text-align: center;
+}
